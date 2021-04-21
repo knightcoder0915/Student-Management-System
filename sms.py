@@ -378,8 +378,4 @@ view_window_btn_back.pack(pady=10)
 view_window.withdraw()
 
 
-
-
-
-
 main_window.mainloop()
